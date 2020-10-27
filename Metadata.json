@@ -1,0 +1,20 @@
+{
+    "Author": "Ritesh.Modi",
+    "ContentSize": 4250,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/assign-static-ip-address-to-existing-virtual-machine/master/Set-StaticIPAddress.ps1",
+    "DownloadCount": 992,
+    "Id": "Assign-Static-IP-Address-0d56fff3",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 486,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-3-15T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook assigns a static IP Address to an existing virtual machine.\u00a0\u00a0The runbook accepts virtual machine name, cloud service name and an IP address.It will retrieve the virtual machine based on its name and cloud service and update it after assigning the given IP address.T",
+    "Title": "Assign Static IP Address to existing virtual machine",
+    "UpdatedDate": "2015-3-15T00:00:00",
+    "Url": "https://github.com/azureautomation/assign-static-ip-address-to-existing-virtual-machine",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
